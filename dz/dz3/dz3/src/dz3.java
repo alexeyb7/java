@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-public class dz3 {
-    public static void main(String[] args) throws Exception {
-        System.out.println("Hello, World!");
-    }
-=======
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
@@ -22,5 +16,4 @@ public class dz3 {
 
         //System.out.@printf(integerList(0));       
 
->>>>>>> 2dc089038d73480f7f2e6d24c4733e50f95bca86
 }
