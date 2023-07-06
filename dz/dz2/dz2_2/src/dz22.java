@@ -48,7 +48,7 @@ import java.io.*;
 
 
     
-public class dz2_2 {
+public class dz22 {
     public static void main(String[] args) {
         ArrayBubble array = new ArrayBubble(5); //Создаем массив array на 5 элементов
 
