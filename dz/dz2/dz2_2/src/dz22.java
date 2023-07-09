@@ -28,8 +28,8 @@ class ArrayBubble {
         for (int i = 0; i < elems; i++) { // для каждого элемента в массиве
 
             System.out.print(a[i] + " "); // вывести в консоль
-            int a = scanner.nextInt();
-            logStep("User entered the first operand = " + a);
+            //int a = scanner.nextInt();
+            //logStep("User entered the first operand = " + a);
             // output.write((a[i])); // Запись каждого элемента в текстовый файл
             System.out.println(""); // с новой строки
         }
